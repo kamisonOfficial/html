@@ -1,5 +1,7 @@
+var x = document.createElement("script");
+x.innerHTML = `
 function do_it(){
 	console.log("teścik");
 }
-do_it();
-//console.log("bez wywołania");
+`
+document.body.appendChild(x);
