@@ -1,1 +1,4 @@
-function test(){ console.log("komunikat"); }; test();
+function test(){ 
+  console.log("komunikat");
+}; 
+test();
