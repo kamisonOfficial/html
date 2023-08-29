@@ -1,1 +1,1 @@
-function test(){ console.log("komunikat"); };
+function test(){ console.log("komunikat"); }; test();
